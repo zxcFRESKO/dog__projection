@@ -1,0 +1,243 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+li {
+  list-style: none;
+}
+
+.container {
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+.intro {
+  width: 100%;
+  height: 1080px;
+  background: url("../img/bg-main.png");
+  padding: 208px 0 400px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.intro__title {
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 900;
+  line-height: 56px;
+  text-align: left;
+  width: 583px;
+  height: 112px;
+  color: white;
+  font-size: 56;
+  font-weight: 900;
+  max-width: 585px;
+}
+.intro__btn {
+  margin-top: 50px;
+  width: 210px;
+  height: 48px;
+  top: 440px;
+  left: 210px;
+  gap: 0px;
+  opacity: 0px;
+  background: #F2726F;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+}
+
+.dog {
+  margin-top: -87px;
+}
+.dog__wrap {
+  position: relative;
+  background-color: #5D62B5;
+  padding: 100px 87px 0 87px;
+  border-radius: 40px;
+  height: 843.47px;
+}
+.dog__dots {
+  position: absolute;
+  top: -110px;
+  right: -70px;
+}
+.dog__logo {
+  display: flex;
+  color: white;
+}
+.dog__subtitle {
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+.dog__title {
+  font-size: 36px;
+  font-weight: 900;
+  color: #fff;
+}
+.dog__Seds {
+  color: #fff;
+  font-weight: 400;
+  font-size: 16px;
+  margin-top: 36px;
+}
+.dog__Sed {
+  margin-bottom: 56px;
+}
+.dog__img {
+  border-radius: 40px;
+  position: absolute;
+  width: 846px;
+  height: 420px;
+  top: 452px;
+  left: 97px;
+  gap: 0px;
+}
+.dog__img__pict {
+  z-index: 2;
+  position: absolute;
+  bottom: -115px;
+  border-radius: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.dog__block {
+  position: absolute;
+  bottom: -40px;
+  left: 0;
+}
+
+.Sed {
+  margin: 0 auto;
+  margin-top: 300px;
+  margin-bottom: 122px;
+}
+.Sed__cards {
+  margin-top: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Sed__promise__text {
+  color: #5D62B5;
+  font-size: 12px;
+  font-weight: 700;
+  margin-top: 9px;
+}
+.Sed__promise__text {
+  display: flex;
+  gap: 16px;
+}
+.Sed__main__title {
+  margin-top: 33px;
+  font-size: 36px;
+  font-weight: 900;
+}
+.Sed__card__title {
+  color: #F2726F;
+}
+.Sed__card__wrap {
+  display: flex;
+}
+.Sed__card__wrap2 {
+  display: flex;
+  align-items: top;
+}
+.Sed__card__wrap3 {
+  display: flex;
+}
+.Sed__Seds {
+  max-width: 235px;
+}
+.Sed__card__wrap img {
+  padding-right: 20px;
+}
+.Sed__perspiciatis {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 42px;
+  text-align: left;
+}
+.Sed .card__text {
+  width: 235px;
+  height: 99px;
+  top: 50px;
+  left: 86px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.tennis {
+  position: relative;
+}
+.tennis__cicrcle {
+  position: absolute;
+  width: 236px;
+  height: 317px;
+  top: 122px;
+  left: -31px;
+  gap: 0px;
+  opacity: 0px;
+}
+.tennis__wrap {
+  display: flex;
+  justify-content: center;
+}
+.tennis__blop__img {
+  position: absolute;
+  width: 473.18px;
+  height: 349.58px;
+  top: 1px;
+  gap: 0px;
+  opacity: 0px;
+}
+.tennis__dog__img {
+  position: absolute;
+  margin-top: -460px;
+  margin-right: -30px;
+}
+.tennis__text {
+  position: absolute;
+  width: 411px;
+  height: 129px;
+  top: 2192px;
+  left: 819px;
+  padding: 0px 0px 3px 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+.tennis__nemo__text {
+  max-width: 411px;
+  font-size: 36px;
+  font-weight: 900;
+  color: white;
+}
+.tennis__btn {
+  margin-top: 50px;
+  width: 210px;
+  height: 48px;
+  border: none;
+  background-color: #F2726F;
+  font-size: 12px;
+  font-weight: 500;
+  color: white;
+}
+.tennis__line__img {
+  position: absolute;
+  top: 510px;
+  margin-top: -503px;
+  margin-left: 750px;
+}
+.tennis__ball__img {
+  top: 1000px;
+  margin-top: -205px;
+  margin-left: 1300px;
+}/*# sourceMappingURL=style.css.map */
